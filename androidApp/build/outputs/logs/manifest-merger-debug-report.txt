@@ -1,0 +1,1054 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:2:1-39:12
+MERGED from [:shared] /Users/yazantarifi/Code/KMM-Shared-Compose/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.accompanist:accompanist-pager-indicators:0.24.8-beta] /Users/yazantarifi/.gradle/caches/transforms-3/0055a293a9ec1c666688dfc098a14a60/transformed/accompanist-pager-indicators-0.24.8-beta/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material3:material3:1.0.0-alpha11] /Users/yazantarifi/.gradle/caches/transforms-3/0e7a5d8448cd43dc54de6ce5be5786d3/transformed/material3-1.0.0-alpha11/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-ripple:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/2d0828241f7466be2fe8e3723c85f607/transformed/material-ripple-1.4.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-icons-core:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/33ed7a1fa66fd04f60fce8f9a0c4f7b9/transformed/material-icons-core-1.4.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/3bd9776dbaf53e67acac6f6e402f2b5a/transformed/material-1.4.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.accompanist:accompanist-pager:0.24.8-beta] /Users/yazantarifi/.gradle/caches/transforms-3/f402bfb24fe47f1dc7152abdfcc91be8/transformed/accompanist-pager-0.24.8-beta/AndroidManifest.xml:17:1-24:12
+MERGED from [media.kamel:kamel-image-android-debug:0.5.0] /Users/yazantarifi/.gradle/caches/transforms-3/dffe9fc5c545521f7151ceb9f42affde/transformed/kamel-image-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [org.jetbrains.compose.components:library-android:1.4.0] /Users/yazantarifi/.gradle/caches/transforms-3/d2c34f4bc00d93a5a9b55a457c405034/transformed/library-release/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.hilt:hilt-navigation-compose:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/b478f8027d7903f732c58f6d663a5464/transformed/hilt-navigation-compose-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-compose:2.5.3] /Users/yazantarifi/.gradle/caches/transforms-3/1e70575f897dbde4dbbf7d69d1108232/transformed/navigation-compose-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation-core:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/8c46a87859d6a384671e6f17b043e25e/transformed/animation-core-1.4.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/9459651c625c57cfb4c8d2c784638948/transformed/animation-1.4.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/8b2a08c53a718022393886b67c4dcd45/transformed/foundation-layout-1.4.1/AndroidManifest.xml:17:1-22:12
+MERGED from [dev.chrisbanes.snapper:snapper:0.2.0] /Users/yazantarifi/.gradle/caches/transforms-3/71819a02245710bbd19d81373e769133/transformed/snapper-0.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [io.coil-kt:coil-compose:2.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/be44027eb650357f13871c4d699e8140/transformed/coil-compose-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil-compose-base:2.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/3f2512902e09f318dc1faba43a124280/transformed/coil-compose-base-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.compose.foundation:foundation:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/f0fdaf13b0be86e942755c7fe6b2d78a/transformed/foundation-1.4.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material3:material3-window-size-class:1.0.0-alpha11] /Users/yazantarifi/.gradle/caches/transforms-3/cca0f675564755effa0c4dc035499da5/transformed/material3-window-size-class-1.0.0-alpha11/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/d4ebf692c9ea325adb02d43beb5fdd48/transformed/ui-tooling-data-1.4.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-util:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/4e345cd3441ae48a5a99f369945175de/transformed/ui-util-1.4.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-unit:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/d46a87755c6226992f2c65e03f8e3200/transformed/ui-unit-1.4.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-text:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/72b46360a58c7f5ad651c7b0b29ee8f8/transformed/ui-text-1.4.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/7bd6cd5fadb8c7b790d0f5bfeef8990c/transformed/ui-graphics-1.4.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-geometry:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/a7f86d0c1239d8a44124623eb83c36fb/transformed/ui-geometry-1.4.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/475f63b734538bd15a4aeeef1dc73192/transformed/ui-tooling-preview-1.4.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/cd1357634c964c3a85549d0ae740dae5/transformed/ui-tooling-1.4.1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.material:material:1.8.0-alpha01] /Users/yazantarifi/.gradle/caches/transforms-3/fed64cea703f1483a75e94be910c159d/transformed/material-1.8.0-alpha01/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/3e25b102c5d98c70f1f1490774f37635/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-perf-ktx:20.0.6] /Users/yazantarifi/.gradle/caches/transforms-3/38e84f64b0c01c68172dc526bc923a42/transformed/firebase-perf-ktx-20.0.6/AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:firebase-perf:20.0.6] /Users/yazantarifi/.gradle/caches/transforms-3/531aa4b76f4e5ecf880e6516dd050219/transformed/firebase-perf-20.0.6/AndroidManifest.xml:3:1-29:12
+MERGED from [io.coil-kt:coil:2.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/e6a9162ed6282029ac0d32add9f55675/transformed/coil-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil-base:2.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/23f13728f239c4d95d0d641de340acb9/transformed/coil-base-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.5.0] /Users/yazantarifi/.gradle/caches/transforms-3/f358b92319cc8801b0ef16d8d480700f/transformed/appcompat-resources-1.5.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.5.0] /Users/yazantarifi/.gradle/caches/transforms-3/9ccc96f4df8dc06c84c16df6683a1c75/transformed/appcompat-1.5.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.yazantarifi:sopy-android:1.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/2c9e7028456ac09721c5b2c71e4d382d/transformed/sopy-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.hilt:hilt-navigation:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/774f0a4a5a8f519f98fe2fa2d9c4e859/transformed/hilt-navigation-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:hilt-android:2.44] /Users/yazantarifi/.gradle/caches/transforms-3/1805795994b802d2873454989d6bc33c/transformed/hilt-android-2.44/AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/137c51ff4d089791b12fe42830184ff8/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging:23.0.4] /Users/yazantarifi/.gradle/caches/transforms-3/ab0e41233bdfc86db181321841afb37e/transformed/firebase-messaging-23.0.4/AndroidManifest.xml:17:1-61:12
+MERGED from [com.google.firebase:firebase-functions-ktx:20.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/6b336397dea6897c00780c0c97061e9c/transformed/firebase-functions-ktx-20.1.0/AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:firebase-functions:20.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/e8e716e3b3d407e20b1c9798b16be1f0/transformed/firebase-functions-20.1.0/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/e6f5cc01a9e76dcec22a7b330bca7d62/transformed/firebase-appcheck-interop-16.0.0/AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/50005d22f6e1e154460ae16d62186d36/transformed/firebase-auth-interop-18.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/a87852d01ce22a99ab02fdcc2ef8083b/transformed/play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-config:21.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/188af75882f1b1b21c155aae2be935fc/transformed/firebase-config-21.1.0/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.firebase:firebase-crashlytics-ktx:18.2.10] /Users/yazantarifi/.gradle/caches/transforms-3/ff76bdf2ebbf2d8ea29343ea13f3a8fc/transformed/firebase-crashlytics-ktx-18.2.10/AndroidManifest.xml:15:1-33:12
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/2240495e3b195102471349bc68f4a114/transformed/firebase-analytics-ktx-21.0.0/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/8b923bb976279f802632c6cfc170df72/transformed/firebase-common-ktx-20.1.1/AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.10] /Users/yazantarifi/.gradle/caches/transforms-3/65c31c2afbc250ef8f69d84044dd0450/transformed/firebase-crashlytics-18.2.10/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-abt:21.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/dc0799bac023874b07bde9f6862436ac/transformed/firebase-abt-21.0.1/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/dbbcc9f8583ee0121ed58a49596b6cae/transformed/firebase-iid-21.1.0/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/68dc35d534e6432ac7b4d830eb6cfe75/transformed/firebase-analytics-21.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8621c40172c01213de9083d6dd092f12/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/a69b5744fed0ec91b3b78812abcfbe88/transformed/firebase-installations-17.0.1/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-datatransport:18.1.3] /Users/yazantarifi/.gradle/caches/transforms-3/927c5a29a5f3dc8a5614b39c0be3c0ed/transformed/firebase-datatransport-18.1.3/AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/eee731d6391a002072e1b8dfcba7d2fd/transformed/firebase-common-20.1.1/AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/8e509a3e139adba050d5c10712ce8b80/transformed/firebase-installations-interop-17.0.1/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/4ef859c09bfb5921bfd4595ae16065cb/transformed/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/4f3fc018fe2a9a203a167c2584be183d/transformed/firebase-iid-interop-17.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/2e0c60bf292cd01e404ac9bfe7206f5b/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8f9b84afb8740437ab045a77caf9949c/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/6c3a35d28d726a5e21c38f230aa172fa/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/29845f0970ba19505661d42f5cd98714/transformed/play-services-measurement-sdk-21.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8f4779865295652d5d3add57a0d5826b/transformed/play-services-measurement-impl-21.0.0/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/yazantarifi/.gradle/caches/transforms-3/26c339baae952d4d46eae63ff196502c/transformed/play-services-stats-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/a21c4dcd3d2103c1b2449fae9f6e60b8/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/490b9520be01f7cfaf38bfea2d8bbe5d/transformed/play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/e031eaeeeac1a063e79cef46ceb9d150/transformed/play-services-measurement-base-21.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/7c69e0087c9c94986c81fd371dbc8943/transformed/play-services-basement-18.0.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.5.1] /Users/yazantarifi/.gradle/caches/transforms-3/70af04b43cb9c6c9ef8619a8f5817dc9/transformed/fragment-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.7.0] /Users/yazantarifi/.gradle/caches/transforms-3/8eddfaba76bd941ef9cb2c2035f833d8/transformed/activity-1.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /Users/yazantarifi/.gradle/caches/transforms-3/35fa22c2895b15a1df6f941208f09c4a/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] /Users/yazantarifi/.gradle/caches/transforms-3/2f47c1fdea1f2bdd374eac2846a458dc/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.7.0] /Users/yazantarifi/.gradle/caches/transforms-3/61dc62148abe61f7fc214997f58471a0/transformed/activity-ktx-1.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.7.0] /Users/yazantarifi/.gradle/caches/transforms-3/0f9f38ffce086ea821cfaebdd7110a19/transformed/activity-compose-1.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.24.13-rc] /Users/yazantarifi/.gradle/caches/transforms-3/e0b8d781c5f33841fbcb7603750ad99b/transformed/accompanist-systemuicontroller-0.24.13-rc/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-animation:1.0.0-beta01] /Users/yazantarifi/.gradle/caches/transforms-3/4ae099f685b5045db278344101033d9b/transformed/core-animation-1.0.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.webkit:webkit:1.6.1] /Users/yazantarifi/.gradle/caches/transforms-3/b102f5f00af423c9a411ae2679b85510/transformed/webkit-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/79c03ebf0e64d60a76e074ecb8c495fd/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/22eaa8e02a0fb32ae41d0a348b486f6a/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/d140d55e57e7dd152c40cf2ae6254219/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.window:window:1.1.0-alpha02] /Users/yazantarifi/.gradle/caches/transforms-3/9de1245cba150996790440a2f9133bf1/transformed/window-1.1.0-alpha02/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/0b5ae585933f065102a53b89ef6fc8fc/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/1c7072060fc5fcbc792dc59d77ab59fe/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/c5deef1e61628f45042336cbbb5ca462/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/yazantarifi/.gradle/caches/transforms-3/e3fc520668340b31f4112ce158cfb9b8/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/87b8ae6407dc8357a65a2da76bb51811/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/16a6130d8c0ed75fffd0bd5331c22965/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/34ad2bd17d3a423c541d3f4e817a665c/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /Users/yazantarifi/.gradle/caches/transforms-3/825e06c5dc9fb30d6cda0529d94887d0/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.3] /Users/yazantarifi/.gradle/caches/transforms-3/609474b3ab509558da05f03857963e99/transformed/navigation-common-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/yazantarifi/.gradle/caches/transforms-3/fb6dcad29ee51b9dc23358df10b7a4ae/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/yazantarifi/.gradle/caches/transforms-3/004a18cfe86107e76f3dca848231e3bb/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/0b6f6fea602d0723fb495351cf5fa610/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/43ce9b42109ba718f44450e56b166917/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/yazantarifi/.gradle/caches/transforms-3/07eb3f3dfd7c6df6774979069ce0a568/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/yazantarifi/.gradle/caches/transforms-3/ea821b4c7a63aa915297714f6ca7d41a/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/yazantarifi/.gradle/caches/transforms-3/209d69787b715548dac74cbdaeb8ab45/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/yazantarifi/.gradle/caches/transforms-3/02f057fbb104e1901e84045c64020bab/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/yazantarifi/.gradle/caches/transforms-3/0c4dbb70c5c4bd1458b198d434e824f2/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/yazantarifi/.gradle/caches/transforms-3/fc86a2dceb7f296338aeac0fbab6e488/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/yazantarifi/.gradle/caches/transforms-3/a9afc4d545cb49df80ec35a7e2951c6e/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/yazantarifi/.gradle/caches/transforms-3/b3e2dbec74dffea967761273c99301f3/transformed/core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/e21ff6dc2c4cf62ecf398b7a595979b8/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/ccdcbf7c5a3f6b2899d98b8d09952622/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/7428c98f40e6b0fb4950ed83d1e7ab41/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] /Users/yazantarifi/.gradle/caches/transforms-3/9ccd288164d09d241f9352580ab6d54b/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/yazantarifi/.gradle/caches/transforms-3/d925cc17f978e567b51746eba438bf2f/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1] /Users/yazantarifi/.gradle/caches/transforms-3/702dcf8f668b309b5b96bfa389dbf787/transformed/lifecycle-viewmodel-compose-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.23.1] /Users/yazantarifi/.gradle/caches/transforms-3/71ffcf80e4395bbb6d33b7f238564cd6/transformed/accompanist-drawablepainter-0.23.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/b293f60d642addfea6873b70ff78d1f7/transformed/ui-1.4.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/133e0dfd9a4e66fee845734f335ccd31/transformed/runtime-saveable-1.4.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/126ff4b99309e0f2b5a76c007aeb5ef3/transformed/runtime-1.4.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton.timber:timber:5.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/6b9054abcd6c9a848194731c206bdd98/transformed/timber-5.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/2fe0b54a4d47a09e7f6ce6190b59921d/transformed/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.4] /Users/yazantarifi/.gradle/caches/transforms-3/fb9a999319a80c8158166089e0f91d63/transformed/transport-backend-cct-3.1.4/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.4] /Users/yazantarifi/.gradle/caches/transforms-3/235e5fd55820a43c4bc3e72c3b374c48/transformed/transport-runtime-3.1.4/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/da21f9976d900f8bb7ada34e93959106/transformed/firebase-encoders-json-18.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/e38997d5367575c173f0789c48360477/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/2fe0ac994666a147b603f4139d09a76e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8f1b15b6ddcfa701fc6898307714d2ea/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/15c227eb0632eb7f2220cb21f836f582/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/21a215807ea9cc05dc0463f6899aca26/transformed/firebase-components-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8070484ca313bf763eb60069555ced3a/transformed/transport-api-3.0.0/AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/2fce52212a0da75879e59be66d96c5d4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/yazantarifi/.gradle/caches/transforms-3/2ccb02b1f4dda3207fa9a4be809c3a10/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/0c4459fe78dbb25a2f1345ddfc99066d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/yazantarifi/.gradle/caches/transforms-3/f4e2094a98b0b35903afcc7b566cb4fe/transformed/exifinterface-1.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/9bcf7288e54473dae5a1c77f8b512950/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/ef846fc90fba4f35afab2be86ea99c65/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/6b54dd9f0c1eaf97b2bad2997b51daaf/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/e61b5e2a54b53116993008102ca4bfed/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/759fcb99e6b84666d326d7743d0f105b/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [io.github.aakira:napier-android-debug:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/3f5772b86fa71bdc38508dc56be6cd83/transformed/napier-debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.44] /Users/yazantarifi/.gradle/caches/transforms-3/cca94346b8c120a17544ea7ad29ba8eb/transformed/dagger-lint-aar-2.44/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/f1fd985581fd1daedbc47c6ddaf04c39/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:2:1-39:12
+	package
+		INJECTED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:2:1-39:12
+		INJECTED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:2:1-39:12
+		INJECTED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:2:1-39:12
+		INJECTED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:4:5-45
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:6:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.0.4] /Users/yazantarifi/.gradle/caches/transforms-3/ab0e41233bdfc86db181321841afb37e/transformed/firebase-messaging-23.0.4/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.0.4] /Users/yazantarifi/.gradle/caches/transforms-3/ab0e41233bdfc86db181321841afb37e/transformed/firebase-messaging-23.0.4/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-config:21.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/188af75882f1b1b21c155aae2be935fc/transformed/firebase-config-21.1.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-config:21.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/188af75882f1b1b21c155aae2be935fc/transformed/firebase-config-21.1.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/dbbcc9f8583ee0121ed58a49596b6cae/transformed/firebase-iid-21.1.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/dbbcc9f8583ee0121ed58a49596b6cae/transformed/firebase-iid-21.1.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8621c40172c01213de9083d6dd092f12/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8621c40172c01213de9083d6dd092f12/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/a69b5744fed0ec91b3b78812abcfbe88/transformed/firebase-installations-17.0.1/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/a69b5744fed0ec91b3b78812abcfbe88/transformed/firebase-installations-17.0.1/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/4ef859c09bfb5921bfd4595ae16065cb/transformed/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/4ef859c09bfb5921bfd4595ae16065cb/transformed/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/6c3a35d28d726a5e21c38f230aa172fa/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/6c3a35d28d726a5e21c38f230aa172fa/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8f4779865295652d5d3add57a0d5826b/transformed/play-services-measurement-impl-21.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8f4779865295652d5d3add57a0d5826b/transformed/play-services-measurement-impl-21.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/490b9520be01f7cfaf38bfea2d8bbe5d/transformed/play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/490b9520be01f7cfaf38bfea2d8bbe5d/transformed/play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.4] /Users/yazantarifi/.gradle/caches/transforms-3/fb9a999319a80c8158166089e0f91d63/transformed/transport-backend-cct-3.1.4/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.4] /Users/yazantarifi/.gradle/caches/transforms-3/fb9a999319a80c8158166089e0f91d63/transformed/transport-backend-cct-3.1.4/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.4] /Users/yazantarifi/.gradle/caches/transforms-3/235e5fd55820a43c4bc3e72c3b374c48/transformed/transport-runtime-3.1.4/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.4] /Users/yazantarifi/.gradle/caches/transforms-3/235e5fd55820a43c4bc3e72c3b374c48/transformed/transport-runtime-3.1.4/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:7:22-73
+uses-permission#android.permission.INTERNET
+ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-perf:20.0.6] /Users/yazantarifi/.gradle/caches/transforms-3/531aa4b76f4e5ecf880e6516dd050219/transformed/firebase-perf-20.0.6/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-perf:20.0.6] /Users/yazantarifi/.gradle/caches/transforms-3/531aa4b76f4e5ecf880e6516dd050219/transformed/firebase-perf-20.0.6/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-functions:20.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/e8e716e3b3d407e20b1c9798b16be1f0/transformed/firebase-functions-20.1.0/AndroidManifest.xml:12:5-67
+MERGED from [com.google.firebase:firebase-functions:20.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/e8e716e3b3d407e20b1c9798b16be1f0/transformed/firebase-functions-20.1.0/AndroidManifest.xml:12:5-67
+MERGED from [com.google.firebase:firebase-config:21.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/188af75882f1b1b21c155aae2be935fc/transformed/firebase-config-21.1.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-config:21.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/188af75882f1b1b21c155aae2be935fc/transformed/firebase-config-21.1.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.10] /Users/yazantarifi/.gradle/caches/transforms-3/65c31c2afbc250ef8f69d84044dd0450/transformed/firebase-crashlytics-18.2.10/AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.10] /Users/yazantarifi/.gradle/caches/transforms-3/65c31c2afbc250ef8f69d84044dd0450/transformed/firebase-crashlytics-18.2.10/AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/dbbcc9f8583ee0121ed58a49596b6cae/transformed/firebase-iid-21.1.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/dbbcc9f8583ee0121ed58a49596b6cae/transformed/firebase-iid-21.1.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8621c40172c01213de9083d6dd092f12/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8621c40172c01213de9083d6dd092f12/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/a69b5744fed0ec91b3b78812abcfbe88/transformed/firebase-installations-17.0.1/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/a69b5744fed0ec91b3b78812abcfbe88/transformed/firebase-installations-17.0.1/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/4ef859c09bfb5921bfd4595ae16065cb/transformed/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/4ef859c09bfb5921bfd4595ae16065cb/transformed/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/6c3a35d28d726a5e21c38f230aa172fa/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/6c3a35d28d726a5e21c38f230aa172fa/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8f4779865295652d5d3add57a0d5826b/transformed/play-services-measurement-impl-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8f4779865295652d5d3add57a0d5826b/transformed/play-services-measurement-impl-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/490b9520be01f7cfaf38bfea2d8bbe5d/transformed/play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/490b9520be01f7cfaf38bfea2d8bbe5d/transformed/play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.4] /Users/yazantarifi/.gradle/caches/transforms-3/fb9a999319a80c8158166089e0f91d63/transformed/transport-backend-cct-3.1.4/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.4] /Users/yazantarifi/.gradle/caches/transforms-3/fb9a999319a80c8158166089e0f91d63/transformed/transport-backend-cct-3.1.4/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:9:22-74
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:10:5-107
+	android:maxSdkVersion
+		ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:10:78-104
+	android:name
+		ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:10:22-77
+application
+ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:12:5-38:19
+MERGED from [androidx.compose.ui:ui-tooling:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/cd1357634c964c3a85549d0ae740dae5/transformed/ui-tooling-1.4.1/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/cd1357634c964c3a85549d0ae740dae5/transformed/ui-tooling-1.4.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.material:material:1.8.0-alpha01] /Users/yazantarifi/.gradle/caches/transforms-3/fed64cea703f1483a75e94be910c159d/transformed/material-1.8.0-alpha01/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.8.0-alpha01] /Users/yazantarifi/.gradle/caches/transforms-3/fed64cea703f1483a75e94be910c159d/transformed/material-1.8.0-alpha01/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/3e25b102c5d98c70f1f1490774f37635/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/3e25b102c5d98c70f1f1490774f37635/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-perf-ktx:20.0.6] /Users/yazantarifi/.gradle/caches/transforms-3/38e84f64b0c01c68172dc526bc923a42/transformed/firebase-perf-ktx-20.0.6/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-perf-ktx:20.0.6] /Users/yazantarifi/.gradle/caches/transforms-3/38e84f64b0c01c68172dc526bc923a42/transformed/firebase-perf-ktx-20.0.6/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-perf:20.0.6] /Users/yazantarifi/.gradle/caches/transforms-3/531aa4b76f4e5ecf880e6516dd050219/transformed/firebase-perf-20.0.6/AndroidManifest.xml:13:5-27:19
+MERGED from [com.google.firebase:firebase-perf:20.0.6] /Users/yazantarifi/.gradle/caches/transforms-3/531aa4b76f4e5ecf880e6516dd050219/transformed/firebase-perf-20.0.6/AndroidManifest.xml:13:5-27:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.4] /Users/yazantarifi/.gradle/caches/transforms-3/ab0e41233bdfc86db181321841afb37e/transformed/firebase-messaging-23.0.4/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.4] /Users/yazantarifi/.gradle/caches/transforms-3/ab0e41233bdfc86db181321841afb37e/transformed/firebase-messaging-23.0.4/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-functions-ktx:20.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/6b336397dea6897c00780c0c97061e9c/transformed/firebase-functions-ktx-20.1.0/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-functions-ktx:20.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/6b336397dea6897c00780c0c97061e9c/transformed/firebase-functions-ktx-20.1.0/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-functions:20.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/e8e716e3b3d407e20b1c9798b16be1f0/transformed/firebase-functions-20.1.0/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-functions:20.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/e8e716e3b3d407e20b1c9798b16be1f0/transformed/firebase-functions-20.1.0/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/e6f5cc01a9e76dcec22a7b330bca7d62/transformed/firebase-appcheck-interop-16.0.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/e6f5cc01a9e76dcec22a7b330bca7d62/transformed/firebase-appcheck-interop-16.0.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/50005d22f6e1e154460ae16d62186d36/transformed/firebase-auth-interop-18.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/50005d22f6e1e154460ae16d62186d36/transformed/firebase-auth-interop-18.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/a87852d01ce22a99ab02fdcc2ef8083b/transformed/play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/a87852d01ce22a99ab02fdcc2ef8083b/transformed/play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-config:21.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/188af75882f1b1b21c155aae2be935fc/transformed/firebase-config-21.1.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-config:21.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/188af75882f1b1b21c155aae2be935fc/transformed/firebase-config-21.1.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-crashlytics-ktx:18.2.10] /Users/yazantarifi/.gradle/caches/transforms-3/ff76bdf2ebbf2d8ea29343ea13f3a8fc/transformed/firebase-crashlytics-ktx-18.2.10/AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.firebase:firebase-crashlytics-ktx:18.2.10] /Users/yazantarifi/.gradle/caches/transforms-3/ff76bdf2ebbf2d8ea29343ea13f3a8fc/transformed/firebase-crashlytics-ktx-18.2.10/AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/2240495e3b195102471349bc68f4a114/transformed/firebase-analytics-ktx-21.0.0/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/2240495e3b195102471349bc68f4a114/transformed/firebase-analytics-ktx-21.0.0/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/8b923bb976279f802632c6cfc170df72/transformed/firebase-common-ktx-20.1.1/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/8b923bb976279f802632c6cfc170df72/transformed/firebase-common-ktx-20.1.1/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.10] /Users/yazantarifi/.gradle/caches/transforms-3/65c31c2afbc250ef8f69d84044dd0450/transformed/firebase-crashlytics-18.2.10/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.10] /Users/yazantarifi/.gradle/caches/transforms-3/65c31c2afbc250ef8f69d84044dd0450/transformed/firebase-crashlytics-18.2.10/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-abt:21.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/dc0799bac023874b07bde9f6862436ac/transformed/firebase-abt-21.0.1/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-abt:21.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/dc0799bac023874b07bde9f6862436ac/transformed/firebase-abt-21.0.1/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/dbbcc9f8583ee0121ed58a49596b6cae/transformed/firebase-iid-21.1.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/dbbcc9f8583ee0121ed58a49596b6cae/transformed/firebase-iid-21.1.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/68dc35d534e6432ac7b4d830eb6cfe75/transformed/firebase-analytics-21.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/68dc35d534e6432ac7b4d830eb6cfe75/transformed/firebase-analytics-21.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8621c40172c01213de9083d6dd092f12/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8621c40172c01213de9083d6dd092f12/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/a69b5744fed0ec91b3b78812abcfbe88/transformed/firebase-installations-17.0.1/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/a69b5744fed0ec91b3b78812abcfbe88/transformed/firebase-installations-17.0.1/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.3] /Users/yazantarifi/.gradle/caches/transforms-3/927c5a29a5f3dc8a5614b39c0be3c0ed/transformed/firebase-datatransport-18.1.3/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.3] /Users/yazantarifi/.gradle/caches/transforms-3/927c5a29a5f3dc8a5614b39c0be3c0ed/transformed/firebase-datatransport-18.1.3/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/eee731d6391a002072e1b8dfcba7d2fd/transformed/firebase-common-20.1.1/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/eee731d6391a002072e1b8dfcba7d2fd/transformed/firebase-common-20.1.1/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/4f3fc018fe2a9a203a167c2584be183d/transformed/firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/4f3fc018fe2a9a203a167c2584be183d/transformed/firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/2e0c60bf292cd01e404ac9bfe7206f5b/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/2e0c60bf292cd01e404ac9bfe7206f5b/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8f9b84afb8740437ab045a77caf9949c/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8f9b84afb8740437ab045a77caf9949c/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/6c3a35d28d726a5e21c38f230aa172fa/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/6c3a35d28d726a5e21c38f230aa172fa/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/29845f0970ba19505661d42f5cd98714/transformed/play-services-measurement-sdk-21.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/29845f0970ba19505661d42f5cd98714/transformed/play-services-measurement-sdk-21.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8f4779865295652d5d3add57a0d5826b/transformed/play-services-measurement-impl-21.0.0/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8f4779865295652d5d3add57a0d5826b/transformed/play-services-measurement-impl-21.0.0/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/yazantarifi/.gradle/caches/transforms-3/26c339baae952d4d46eae63ff196502c/transformed/play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/yazantarifi/.gradle/caches/transforms-3/26c339baae952d4d46eae63ff196502c/transformed/play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/a21c4dcd3d2103c1b2449fae9f6e60b8/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/a21c4dcd3d2103c1b2449fae9f6e60b8/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/e031eaeeeac1a063e79cef46ceb9d150/transformed/play-services-measurement-base-21.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/e031eaeeeac1a063e79cef46ceb9d150/transformed/play-services-measurement-base-21.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/7c69e0087c9c94986c81fd371dbc8943/transformed/play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/7c69e0087c9c94986c81fd371dbc8943/transformed/play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/d140d55e57e7dd152c40cf2ae6254219/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/d140d55e57e7dd152c40cf2ae6254219/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.1.0-alpha02] /Users/yazantarifi/.gradle/caches/transforms-3/9de1245cba150996790440a2f9133bf1/transformed/window-1.1.0-alpha02/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.1.0-alpha02] /Users/yazantarifi/.gradle/caches/transforms-3/9de1245cba150996790440a2f9133bf1/transformed/window-1.1.0-alpha02/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/yazantarifi/.gradle/caches/transforms-3/209d69787b715548dac74cbdaeb8ab45/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/yazantarifi/.gradle/caches/transforms-3/209d69787b715548dac74cbdaeb8ab45/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] /Users/yazantarifi/.gradle/caches/transforms-3/9ccd288164d09d241f9352580ab6d54b/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /Users/yazantarifi/.gradle/caches/transforms-3/9ccd288164d09d241f9352580ab6d54b/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [com.jakewharton.timber:timber:5.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/6b9054abcd6c9a848194731c206bdd98/transformed/timber-5.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:5.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/6b9054abcd6c9a848194731c206bdd98/transformed/timber-5.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.4] /Users/yazantarifi/.gradle/caches/transforms-3/fb9a999319a80c8158166089e0f91d63/transformed/transport-backend-cct-3.1.4/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.4] /Users/yazantarifi/.gradle/caches/transforms-3/fb9a999319a80c8158166089e0f91d63/transformed/transport-backend-cct-3.1.4/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.4] /Users/yazantarifi/.gradle/caches/transforms-3/235e5fd55820a43c4bc3e72c3b374c48/transformed/transport-runtime-3.1.4/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.4] /Users/yazantarifi/.gradle/caches/transforms-3/235e5fd55820a43c4bc3e72c3b374c48/transformed/transport-runtime-3.1.4/AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/e38997d5367575c173f0789c48360477/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/e38997d5367575c173f0789c48360477/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/2fe0ac994666a147b603f4139d09a76e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/2fe0ac994666a147b603f4139d09a76e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/2fce52212a0da75879e59be66d96c5d4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/2fce52212a0da75879e59be66d96c5d4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appCategory
+		ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:23:9-37
+	android:roundIcon
+		ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:19:9-51
+	android:allowAudioPlaybackCapture
+		ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:24:9-50
+	android:largeHeap
+		ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:17:9-33
+	android:icon
+		ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:18:9-40
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /Users/yazantarifi/.gradle/caches/transforms-3/9ccd288164d09d241f9352580ab6d54b/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:20:9-41
+	android:allowClearUserData
+		ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:25:9-42
+	android:hardwareAccelerated
+		ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:16:9-43
+	tools:targetApi
+		ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:22:9-29
+	android:allowBackup
+		ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:13:9-36
+	android:theme
+		ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:15:9-41
+	android:usesCleartextTraffic
+		ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:21:9-44
+activity#com.yazantarifi.radio.android.MainActivity
+ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:27:9-36:20
+	android:screenOrientation
+		ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:30:13-51
+	android:exported
+		ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:31:13-36
+	android:theme
+		ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:29:13-52
+	android:name
+		ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:28:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml
+MERGED from [:shared] /Users/yazantarifi/Code/KMM-Shared-Compose/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared] /Users/yazantarifi/Code/KMM-Shared-Compose/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [com.google.accompanist:accompanist-pager-indicators:0.24.8-beta] /Users/yazantarifi/.gradle/caches/transforms-3/0055a293a9ec1c666688dfc098a14a60/transformed/accompanist-pager-indicators-0.24.8-beta/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-pager-indicators:0.24.8-beta] /Users/yazantarifi/.gradle/caches/transforms-3/0055a293a9ec1c666688dfc098a14a60/transformed/accompanist-pager-indicators-0.24.8-beta/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material3:material3:1.0.0-alpha11] /Users/yazantarifi/.gradle/caches/transforms-3/0e7a5d8448cd43dc54de6ce5be5786d3/transformed/material3-1.0.0-alpha11/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material3:material3:1.0.0-alpha11] /Users/yazantarifi/.gradle/caches/transforms-3/0e7a5d8448cd43dc54de6ce5be5786d3/transformed/material3-1.0.0-alpha11/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/2d0828241f7466be2fe8e3723c85f607/transformed/material-ripple-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/2d0828241f7466be2fe8e3723c85f607/transformed/material-ripple-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/33ed7a1fa66fd04f60fce8f9a0c4f7b9/transformed/material-icons-core-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/33ed7a1fa66fd04f60fce8f9a0c4f7b9/transformed/material-icons-core-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/3bd9776dbaf53e67acac6f6e402f2b5a/transformed/material-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/3bd9776dbaf53e67acac6f6e402f2b5a/transformed/material-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.accompanist:accompanist-pager:0.24.8-beta] /Users/yazantarifi/.gradle/caches/transforms-3/f402bfb24fe47f1dc7152abdfcc91be8/transformed/accompanist-pager-0.24.8-beta/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-pager:0.24.8-beta] /Users/yazantarifi/.gradle/caches/transforms-3/f402bfb24fe47f1dc7152abdfcc91be8/transformed/accompanist-pager-0.24.8-beta/AndroidManifest.xml:20:5-22:41
+MERGED from [media.kamel:kamel-image-android-debug:0.5.0] /Users/yazantarifi/.gradle/caches/transforms-3/dffe9fc5c545521f7151ceb9f42affde/transformed/kamel-image-debug/AndroidManifest.xml:5:5-44
+MERGED from [media.kamel:kamel-image-android-debug:0.5.0] /Users/yazantarifi/.gradle/caches/transforms-3/dffe9fc5c545521f7151ceb9f42affde/transformed/kamel-image-debug/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:library-android:1.4.0] /Users/yazantarifi/.gradle/caches/transforms-3/d2c34f4bc00d93a5a9b55a457c405034/transformed/library-release/AndroidManifest.xml:5:5-7:41
+MERGED from [org.jetbrains.compose.components:library-android:1.4.0] /Users/yazantarifi/.gradle/caches/transforms-3/d2c34f4bc00d93a5a9b55a457c405034/transformed/library-release/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.hilt:hilt-navigation-compose:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/b478f8027d7903f732c58f6d663a5464/transformed/hilt-navigation-compose-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-navigation-compose:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/b478f8027d7903f732c58f6d663a5464/transformed/hilt-navigation-compose-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.5.3] /Users/yazantarifi/.gradle/caches/transforms-3/1e70575f897dbde4dbbf7d69d1108232/transformed/navigation-compose-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.5.3] /Users/yazantarifi/.gradle/caches/transforms-3/1e70575f897dbde4dbbf7d69d1108232/transformed/navigation-compose-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/8c46a87859d6a384671e6f17b043e25e/transformed/animation-core-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/8c46a87859d6a384671e6f17b043e25e/transformed/animation-core-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/9459651c625c57cfb4c8d2c784638948/transformed/animation-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/9459651c625c57cfb4c8d2c784638948/transformed/animation-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-layout:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/8b2a08c53a718022393886b67c4dcd45/transformed/foundation-layout-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-layout:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/8b2a08c53a718022393886b67c4dcd45/transformed/foundation-layout-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [dev.chrisbanes.snapper:snapper:0.2.0] /Users/yazantarifi/.gradle/caches/transforms-3/71819a02245710bbd19d81373e769133/transformed/snapper-0.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [dev.chrisbanes.snapper:snapper:0.2.0] /Users/yazantarifi/.gradle/caches/transforms-3/71819a02245710bbd19d81373e769133/transformed/snapper-0.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [io.coil-kt:coil-compose:2.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/be44027eb650357f13871c4d699e8140/transformed/coil-compose-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-compose:2.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/be44027eb650357f13871c4d699e8140/transformed/coil-compose-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-compose-base:2.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/3f2512902e09f318dc1faba43a124280/transformed/coil-compose-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-compose-base:2.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/3f2512902e09f318dc1faba43a124280/transformed/coil-compose-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.compose.foundation:foundation:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/f0fdaf13b0be86e942755c7fe6b2d78a/transformed/foundation-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/f0fdaf13b0be86e942755c7fe6b2d78a/transformed/foundation-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-window-size-class:1.0.0-alpha11] /Users/yazantarifi/.gradle/caches/transforms-3/cca0f675564755effa0c4dc035499da5/transformed/material3-window-size-class-1.0.0-alpha11/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material3:material3-window-size-class:1.0.0-alpha11] /Users/yazantarifi/.gradle/caches/transforms-3/cca0f675564755effa0c4dc035499da5/transformed/material3-window-size-class-1.0.0-alpha11/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/d4ebf692c9ea325adb02d43beb5fdd48/transformed/ui-tooling-data-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/d4ebf692c9ea325adb02d43beb5fdd48/transformed/ui-tooling-data-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-util:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/4e345cd3441ae48a5a99f369945175de/transformed/ui-util-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-util:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/4e345cd3441ae48a5a99f369945175de/transformed/ui-util-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-unit:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/d46a87755c6226992f2c65e03f8e3200/transformed/ui-unit-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-unit:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/d46a87755c6226992f2c65e03f8e3200/transformed/ui-unit-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/72b46360a58c7f5ad651c7b0b29ee8f8/transformed/ui-text-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/72b46360a58c7f5ad651c7b0b29ee8f8/transformed/ui-text-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/7bd6cd5fadb8c7b790d0f5bfeef8990c/transformed/ui-graphics-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/7bd6cd5fadb8c7b790d0f5bfeef8990c/transformed/ui-graphics-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-geometry:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/a7f86d0c1239d8a44124623eb83c36fb/transformed/ui-geometry-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-geometry:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/a7f86d0c1239d8a44124623eb83c36fb/transformed/ui-geometry-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/475f63b734538bd15a4aeeef1dc73192/transformed/ui-tooling-preview-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/475f63b734538bd15a4aeeef1dc73192/transformed/ui-tooling-preview-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/cd1357634c964c3a85549d0ae740dae5/transformed/ui-tooling-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/cd1357634c964c3a85549d0ae740dae5/transformed/ui-tooling-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.8.0-alpha01] /Users/yazantarifi/.gradle/caches/transforms-3/fed64cea703f1483a75e94be910c159d/transformed/material-1.8.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.8.0-alpha01] /Users/yazantarifi/.gradle/caches/transforms-3/fed64cea703f1483a75e94be910c159d/transformed/material-1.8.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/3e25b102c5d98c70f1f1490774f37635/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/3e25b102c5d98c70f1f1490774f37635/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-perf-ktx:20.0.6] /Users/yazantarifi/.gradle/caches/transforms-3/38e84f64b0c01c68172dc526bc923a42/transformed/firebase-perf-ktx-20.0.6/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-perf-ktx:20.0.6] /Users/yazantarifi/.gradle/caches/transforms-3/38e84f64b0c01c68172dc526bc923a42/transformed/firebase-perf-ktx-20.0.6/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-perf:20.0.6] /Users/yazantarifi/.gradle/caches/transforms-3/531aa4b76f4e5ecf880e6516dd050219/transformed/firebase-perf-20.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-perf:20.0.6] /Users/yazantarifi/.gradle/caches/transforms-3/531aa4b76f4e5ecf880e6516dd050219/transformed/firebase-perf-20.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [io.coil-kt:coil:2.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/e6a9162ed6282029ac0d32add9f55675/transformed/coil-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil:2.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/e6a9162ed6282029ac0d32add9f55675/transformed/coil-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-base:2.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/23f13728f239c4d95d0d641de340acb9/transformed/coil-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-base:2.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/23f13728f239c4d95d0d641de340acb9/transformed/coil-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.5.0] /Users/yazantarifi/.gradle/caches/transforms-3/f358b92319cc8801b0ef16d8d480700f/transformed/appcompat-resources-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.0] /Users/yazantarifi/.gradle/caches/transforms-3/f358b92319cc8801b0ef16d8d480700f/transformed/appcompat-resources-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.0] /Users/yazantarifi/.gradle/caches/transforms-3/9ccc96f4df8dc06c84c16df6683a1c75/transformed/appcompat-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.0] /Users/yazantarifi/.gradle/caches/transforms-3/9ccc96f4df8dc06c84c16df6683a1c75/transformed/appcompat-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.yazantarifi:sopy-android:1.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/2c9e7028456ac09721c5b2c71e4d382d/transformed/sopy-release/AndroidManifest.xml:5:5-44
+MERGED from [com.yazantarifi:sopy-android:1.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/2c9e7028456ac09721c5b2c71e4d382d/transformed/sopy-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/774f0a4a5a8f519f98fe2fa2d9c4e859/transformed/hilt-navigation-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-navigation:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/774f0a4a5a8f519f98fe2fa2d9c4e859/transformed/hilt-navigation-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:hilt-android:2.44] /Users/yazantarifi/.gradle/caches/transforms-3/1805795994b802d2873454989d6bc33c/transformed/hilt-android-2.44/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.44] /Users/yazantarifi/.gradle/caches/transforms-3/1805795994b802d2873454989d6bc33c/transformed/hilt-android-2.44/AndroidManifest.xml:18:3-42
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/137c51ff4d089791b12fe42830184ff8/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/137c51ff4d089791b12fe42830184ff8/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-messaging:23.0.4] /Users/yazantarifi/.gradle/caches/transforms-3/ab0e41233bdfc86db181321841afb37e/transformed/firebase-messaging-23.0.4/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-messaging:23.0.4] /Users/yazantarifi/.gradle/caches/transforms-3/ab0e41233bdfc86db181321841afb37e/transformed/firebase-messaging-23.0.4/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-functions-ktx:20.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/6b336397dea6897c00780c0c97061e9c/transformed/firebase-functions-ktx-20.1.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-functions-ktx:20.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/6b336397dea6897c00780c0c97061e9c/transformed/firebase-functions-ktx-20.1.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-functions:20.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/e8e716e3b3d407e20b1c9798b16be1f0/transformed/firebase-functions-20.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-functions:20.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/e8e716e3b3d407e20b1c9798b16be1f0/transformed/firebase-functions-20.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/e6f5cc01a9e76dcec22a7b330bca7d62/transformed/firebase-appcheck-interop-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/e6f5cc01a9e76dcec22a7b330bca7d62/transformed/firebase-appcheck-interop-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/50005d22f6e1e154460ae16d62186d36/transformed/firebase-auth-interop-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/50005d22f6e1e154460ae16d62186d36/transformed/firebase-auth-interop-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/a87852d01ce22a99ab02fdcc2ef8083b/transformed/play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/a87852d01ce22a99ab02fdcc2ef8083b/transformed/play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-config:21.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/188af75882f1b1b21c155aae2be935fc/transformed/firebase-config-21.1.0/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-config:21.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/188af75882f1b1b21c155aae2be935fc/transformed/firebase-config-21.1.0/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-crashlytics-ktx:18.2.10] /Users/yazantarifi/.gradle/caches/transforms-3/ff76bdf2ebbf2d8ea29343ea13f3a8fc/transformed/firebase-crashlytics-ktx-18.2.10/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-crashlytics-ktx:18.2.10] /Users/yazantarifi/.gradle/caches/transforms-3/ff76bdf2ebbf2d8ea29343ea13f3a8fc/transformed/firebase-crashlytics-ktx-18.2.10/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/2240495e3b195102471349bc68f4a114/transformed/firebase-analytics-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/2240495e3b195102471349bc68f4a114/transformed/firebase-analytics-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/8b923bb976279f802632c6cfc170df72/transformed/firebase-common-ktx-20.1.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/8b923bb976279f802632c6cfc170df72/transformed/firebase-common-ktx-20.1.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.10] /Users/yazantarifi/.gradle/caches/transforms-3/65c31c2afbc250ef8f69d84044dd0450/transformed/firebase-crashlytics-18.2.10/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.10] /Users/yazantarifi/.gradle/caches/transforms-3/65c31c2afbc250ef8f69d84044dd0450/transformed/firebase-crashlytics-18.2.10/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-abt:21.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/dc0799bac023874b07bde9f6862436ac/transformed/firebase-abt-21.0.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-abt:21.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/dc0799bac023874b07bde9f6862436ac/transformed/firebase-abt-21.0.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/dbbcc9f8583ee0121ed58a49596b6cae/transformed/firebase-iid-21.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/dbbcc9f8583ee0121ed58a49596b6cae/transformed/firebase-iid-21.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/68dc35d534e6432ac7b4d830eb6cfe75/transformed/firebase-analytics-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/68dc35d534e6432ac7b4d830eb6cfe75/transformed/firebase-analytics-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8621c40172c01213de9083d6dd092f12/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8621c40172c01213de9083d6dd092f12/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/a69b5744fed0ec91b3b78812abcfbe88/transformed/firebase-installations-17.0.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/a69b5744fed0ec91b3b78812abcfbe88/transformed/firebase-installations-17.0.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.3] /Users/yazantarifi/.gradle/caches/transforms-3/927c5a29a5f3dc8a5614b39c0be3c0ed/transformed/firebase-datatransport-18.1.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.3] /Users/yazantarifi/.gradle/caches/transforms-3/927c5a29a5f3dc8a5614b39c0be3c0ed/transformed/firebase-datatransport-18.1.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/eee731d6391a002072e1b8dfcba7d2fd/transformed/firebase-common-20.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/eee731d6391a002072e1b8dfcba7d2fd/transformed/firebase-common-20.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/8e509a3e139adba050d5c10712ce8b80/transformed/firebase-installations-interop-17.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/8e509a3e139adba050d5c10712ce8b80/transformed/firebase-installations-interop-17.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/4ef859c09bfb5921bfd4595ae16065cb/transformed/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/4ef859c09bfb5921bfd4595ae16065cb/transformed/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/4f3fc018fe2a9a203a167c2584be183d/transformed/firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/4f3fc018fe2a9a203a167c2584be183d/transformed/firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/2e0c60bf292cd01e404ac9bfe7206f5b/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/2e0c60bf292cd01e404ac9bfe7206f5b/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8f9b84afb8740437ab045a77caf9949c/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8f9b84afb8740437ab045a77caf9949c/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/6c3a35d28d726a5e21c38f230aa172fa/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/6c3a35d28d726a5e21c38f230aa172fa/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/29845f0970ba19505661d42f5cd98714/transformed/play-services-measurement-sdk-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/29845f0970ba19505661d42f5cd98714/transformed/play-services-measurement-sdk-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8f4779865295652d5d3add57a0d5826b/transformed/play-services-measurement-impl-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8f4779865295652d5d3add57a0d5826b/transformed/play-services-measurement-impl-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/yazantarifi/.gradle/caches/transforms-3/26c339baae952d4d46eae63ff196502c/transformed/play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/yazantarifi/.gradle/caches/transforms-3/26c339baae952d4d46eae63ff196502c/transformed/play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/a21c4dcd3d2103c1b2449fae9f6e60b8/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/a21c4dcd3d2103c1b2449fae9f6e60b8/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/490b9520be01f7cfaf38bfea2d8bbe5d/transformed/play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/490b9520be01f7cfaf38bfea2d8bbe5d/transformed/play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/e031eaeeeac1a063e79cef46ceb9d150/transformed/play-services-measurement-base-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/e031eaeeeac1a063e79cef46ceb9d150/transformed/play-services-measurement-base-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/7c69e0087c9c94986c81fd371dbc8943/transformed/play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/7c69e0087c9c94986c81fd371dbc8943/transformed/play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.5.1] /Users/yazantarifi/.gradle/caches/transforms-3/70af04b43cb9c6c9ef8619a8f5817dc9/transformed/fragment-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.1] /Users/yazantarifi/.gradle/caches/transforms-3/70af04b43cb9c6c9ef8619a8f5817dc9/transformed/fragment-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.7.0] /Users/yazantarifi/.gradle/caches/transforms-3/8eddfaba76bd941ef9cb2c2035f833d8/transformed/activity-1.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.7.0] /Users/yazantarifi/.gradle/caches/transforms-3/8eddfaba76bd941ef9cb2c2035f833d8/transformed/activity-1.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /Users/yazantarifi/.gradle/caches/transforms-3/35fa22c2895b15a1df6f941208f09c4a/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /Users/yazantarifi/.gradle/caches/transforms-3/35fa22c2895b15a1df6f941208f09c4a/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] /Users/yazantarifi/.gradle/caches/transforms-3/2f47c1fdea1f2bdd374eac2846a458dc/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] /Users/yazantarifi/.gradle/caches/transforms-3/2f47c1fdea1f2bdd374eac2846a458dc/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.7.0] /Users/yazantarifi/.gradle/caches/transforms-3/61dc62148abe61f7fc214997f58471a0/transformed/activity-ktx-1.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.7.0] /Users/yazantarifi/.gradle/caches/transforms-3/61dc62148abe61f7fc214997f58471a0/transformed/activity-ktx-1.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.7.0] /Users/yazantarifi/.gradle/caches/transforms-3/0f9f38ffce086ea821cfaebdd7110a19/transformed/activity-compose-1.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.7.0] /Users/yazantarifi/.gradle/caches/transforms-3/0f9f38ffce086ea821cfaebdd7110a19/transformed/activity-compose-1.7.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.24.13-rc] /Users/yazantarifi/.gradle/caches/transforms-3/e0b8d781c5f33841fbcb7603750ad99b/transformed/accompanist-systemuicontroller-0.24.13-rc/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.24.13-rc] /Users/yazantarifi/.gradle/caches/transforms-3/e0b8d781c5f33841fbcb7603750ad99b/transformed/accompanist-systemuicontroller-0.24.13-rc/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-animation:1.0.0-beta01] /Users/yazantarifi/.gradle/caches/transforms-3/4ae099f685b5045db278344101033d9b/transformed/core-animation-1.0.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-animation:1.0.0-beta01] /Users/yazantarifi/.gradle/caches/transforms-3/4ae099f685b5045db278344101033d9b/transformed/core-animation-1.0.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.6.1] /Users/yazantarifi/.gradle/caches/transforms-3/b102f5f00af423c9a411ae2679b85510/transformed/webkit-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.6.1] /Users/yazantarifi/.gradle/caches/transforms-3/b102f5f00af423c9a411ae2679b85510/transformed/webkit-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/79c03ebf0e64d60a76e074ecb8c495fd/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/79c03ebf0e64d60a76e074ecb8c495fd/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/22eaa8e02a0fb32ae41d0a348b486f6a/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/22eaa8e02a0fb32ae41d0a348b486f6a/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/d140d55e57e7dd152c40cf2ae6254219/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/d140d55e57e7dd152c40cf2ae6254219/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.window:window:1.1.0-alpha02] /Users/yazantarifi/.gradle/caches/transforms-3/9de1245cba150996790440a2f9133bf1/transformed/window-1.1.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.1.0-alpha02] /Users/yazantarifi/.gradle/caches/transforms-3/9de1245cba150996790440a2f9133bf1/transformed/window-1.1.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/0b5ae585933f065102a53b89ef6fc8fc/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/0b5ae585933f065102a53b89ef6fc8fc/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/1c7072060fc5fcbc792dc59d77ab59fe/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/1c7072060fc5fcbc792dc59d77ab59fe/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/c5deef1e61628f45042336cbbb5ca462/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/c5deef1e61628f45042336cbbb5ca462/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/yazantarifi/.gradle/caches/transforms-3/e3fc520668340b31f4112ce158cfb9b8/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/yazantarifi/.gradle/caches/transforms-3/e3fc520668340b31f4112ce158cfb9b8/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/87b8ae6407dc8357a65a2da76bb51811/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/87b8ae6407dc8357a65a2da76bb51811/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/16a6130d8c0ed75fffd0bd5331c22965/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/16a6130d8c0ed75fffd0bd5331c22965/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/34ad2bd17d3a423c541d3f4e817a665c/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/34ad2bd17d3a423c541d3f4e817a665c/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /Users/yazantarifi/.gradle/caches/transforms-3/825e06c5dc9fb30d6cda0529d94887d0/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /Users/yazantarifi/.gradle/caches/transforms-3/825e06c5dc9fb30d6cda0529d94887d0/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] /Users/yazantarifi/.gradle/caches/transforms-3/609474b3ab509558da05f03857963e99/transformed/navigation-common-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] /Users/yazantarifi/.gradle/caches/transforms-3/609474b3ab509558da05f03857963e99/transformed/navigation-common-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/yazantarifi/.gradle/caches/transforms-3/fb6dcad29ee51b9dc23358df10b7a4ae/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/yazantarifi/.gradle/caches/transforms-3/fb6dcad29ee51b9dc23358df10b7a4ae/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/yazantarifi/.gradle/caches/transforms-3/004a18cfe86107e76f3dca848231e3bb/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/yazantarifi/.gradle/caches/transforms-3/004a18cfe86107e76f3dca848231e3bb/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/0b6f6fea602d0723fb495351cf5fa610/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/0b6f6fea602d0723fb495351cf5fa610/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/43ce9b42109ba718f44450e56b166917/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/43ce9b42109ba718f44450e56b166917/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/yazantarifi/.gradle/caches/transforms-3/07eb3f3dfd7c6df6774979069ce0a568/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/yazantarifi/.gradle/caches/transforms-3/07eb3f3dfd7c6df6774979069ce0a568/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/yazantarifi/.gradle/caches/transforms-3/ea821b4c7a63aa915297714f6ca7d41a/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/yazantarifi/.gradle/caches/transforms-3/ea821b4c7a63aa915297714f6ca7d41a/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/yazantarifi/.gradle/caches/transforms-3/209d69787b715548dac74cbdaeb8ab45/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/yazantarifi/.gradle/caches/transforms-3/209d69787b715548dac74cbdaeb8ab45/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/yazantarifi/.gradle/caches/transforms-3/02f057fbb104e1901e84045c64020bab/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/yazantarifi/.gradle/caches/transforms-3/02f057fbb104e1901e84045c64020bab/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/yazantarifi/.gradle/caches/transforms-3/0c4dbb70c5c4bd1458b198d434e824f2/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/yazantarifi/.gradle/caches/transforms-3/0c4dbb70c5c4bd1458b198d434e824f2/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/yazantarifi/.gradle/caches/transforms-3/fc86a2dceb7f296338aeac0fbab6e488/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/yazantarifi/.gradle/caches/transforms-3/fc86a2dceb7f296338aeac0fbab6e488/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/yazantarifi/.gradle/caches/transforms-3/a9afc4d545cb49df80ec35a7e2951c6e/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/yazantarifi/.gradle/caches/transforms-3/a9afc4d545cb49df80ec35a7e2951c6e/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/yazantarifi/.gradle/caches/transforms-3/b3e2dbec74dffea967761273c99301f3/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/yazantarifi/.gradle/caches/transforms-3/b3e2dbec74dffea967761273c99301f3/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/e21ff6dc2c4cf62ecf398b7a595979b8/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/e21ff6dc2c4cf62ecf398b7a595979b8/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/ccdcbf7c5a3f6b2899d98b8d09952622/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/ccdcbf7c5a3f6b2899d98b8d09952622/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/7428c98f40e6b0fb4950ed83d1e7ab41/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/7428c98f40e6b0fb4950ed83d1e7ab41/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] /Users/yazantarifi/.gradle/caches/transforms-3/9ccd288164d09d241f9352580ab6d54b/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/yazantarifi/.gradle/caches/transforms-3/9ccd288164d09d241f9352580ab6d54b/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/yazantarifi/.gradle/caches/transforms-3/d925cc17f978e567b51746eba438bf2f/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/yazantarifi/.gradle/caches/transforms-3/d925cc17f978e567b51746eba438bf2f/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1] /Users/yazantarifi/.gradle/caches/transforms-3/702dcf8f668b309b5b96bfa389dbf787/transformed/lifecycle-viewmodel-compose-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1] /Users/yazantarifi/.gradle/caches/transforms-3/702dcf8f668b309b5b96bfa389dbf787/transformed/lifecycle-viewmodel-compose-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.23.1] /Users/yazantarifi/.gradle/caches/transforms-3/71ffcf80e4395bbb6d33b7f238564cd6/transformed/accompanist-drawablepainter-0.23.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.23.1] /Users/yazantarifi/.gradle/caches/transforms-3/71ffcf80e4395bbb6d33b7f238564cd6/transformed/accompanist-drawablepainter-0.23.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/b293f60d642addfea6873b70ff78d1f7/transformed/ui-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/b293f60d642addfea6873b70ff78d1f7/transformed/ui-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/133e0dfd9a4e66fee845734f335ccd31/transformed/runtime-saveable-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/133e0dfd9a4e66fee845734f335ccd31/transformed/runtime-saveable-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/126ff4b99309e0f2b5a76c007aeb5ef3/transformed/runtime-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/126ff4b99309e0f2b5a76c007aeb5ef3/transformed/runtime-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.timber:timber:5.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/6b9054abcd6c9a848194731c206bdd98/transformed/timber-5.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.timber:timber:5.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/6b9054abcd6c9a848194731c206bdd98/transformed/timber-5.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/2fe0b54a4d47a09e7f6ce6190b59921d/transformed/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/2fe0b54a4d47a09e7f6ce6190b59921d/transformed/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.4] /Users/yazantarifi/.gradle/caches/transforms-3/fb9a999319a80c8158166089e0f91d63/transformed/transport-backend-cct-3.1.4/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.4] /Users/yazantarifi/.gradle/caches/transforms-3/fb9a999319a80c8158166089e0f91d63/transformed/transport-backend-cct-3.1.4/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.4] /Users/yazantarifi/.gradle/caches/transforms-3/235e5fd55820a43c4bc3e72c3b374c48/transformed/transport-runtime-3.1.4/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.4] /Users/yazantarifi/.gradle/caches/transforms-3/235e5fd55820a43c4bc3e72c3b374c48/transformed/transport-runtime-3.1.4/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/da21f9976d900f8bb7ada34e93959106/transformed/firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/da21f9976d900f8bb7ada34e93959106/transformed/firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/e38997d5367575c173f0789c48360477/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/e38997d5367575c173f0789c48360477/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/2fe0ac994666a147b603f4139d09a76e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/2fe0ac994666a147b603f4139d09a76e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8f1b15b6ddcfa701fc6898307714d2ea/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8f1b15b6ddcfa701fc6898307714d2ea/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/15c227eb0632eb7f2220cb21f836f582/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/15c227eb0632eb7f2220cb21f836f582/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/21a215807ea9cc05dc0463f6899aca26/transformed/firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/21a215807ea9cc05dc0463f6899aca26/transformed/firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8070484ca313bf763eb60069555ced3a/transformed/transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8070484ca313bf763eb60069555ced3a/transformed/transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/2fce52212a0da75879e59be66d96c5d4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/2fce52212a0da75879e59be66d96c5d4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/yazantarifi/.gradle/caches/transforms-3/2ccb02b1f4dda3207fa9a4be809c3a10/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/yazantarifi/.gradle/caches/transforms-3/2ccb02b1f4dda3207fa9a4be809c3a10/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/0c4459fe78dbb25a2f1345ddfc99066d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/0c4459fe78dbb25a2f1345ddfc99066d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/yazantarifi/.gradle/caches/transforms-3/f4e2094a98b0b35903afcc7b566cb4fe/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/yazantarifi/.gradle/caches/transforms-3/f4e2094a98b0b35903afcc7b566cb4fe/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/9bcf7288e54473dae5a1c77f8b512950/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/9bcf7288e54473dae5a1c77f8b512950/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/ef846fc90fba4f35afab2be86ea99c65/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/ef846fc90fba4f35afab2be86ea99c65/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/6b54dd9f0c1eaf97b2bad2997b51daaf/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/6b54dd9f0c1eaf97b2bad2997b51daaf/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/e61b5e2a54b53116993008102ca4bfed/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/e61b5e2a54b53116993008102ca4bfed/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/759fcb99e6b84666d326d7743d0f105b/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/759fcb99e6b84666d326d7743d0f105b/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [io.github.aakira:napier-android-debug:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/3f5772b86fa71bdc38508dc56be6cd83/transformed/napier-debug/AndroidManifest.xml:7:5-9:41
+MERGED from [io.github.aakira:napier-android-debug:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/3f5772b86fa71bdc38508dc56be6cd83/transformed/napier-debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.dagger:dagger-lint-aar:2.44] /Users/yazantarifi/.gradle/caches/transforms-3/cca94346b8c120a17544ea7ad29ba8eb/transformed/dagger-lint-aar-2.44/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.44] /Users/yazantarifi/.gradle/caches/transforms-3/cca94346b8c120a17544ea7ad29ba8eb/transformed/dagger-lint-aar-2.44/AndroidManifest.xml:18:3-42
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/f1fd985581fd1daedbc47c6ddaf04c39/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/f1fd985581fd1daedbc47c6ddaf04c39/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/yazantarifi/Code/KMM-Shared-Compose/androidApp/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/cd1357634c964c3a85549d0ae740dae5/transformed/ui-tooling-1.4.1/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/cd1357634c964c3a85549d0ae740dae5/transformed/ui-tooling-1.4.1/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling:1.4.1] /Users/yazantarifi/.gradle/caches/transforms-3/cd1357634c964c3a85549d0ae740dae5/transformed/ui-tooling-1.4.1/AndroidManifest.xml:24:13-71
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-perf-ktx:20.0.6] /Users/yazantarifi/.gradle/caches/transforms-3/38e84f64b0c01c68172dc526bc923a42/transformed/firebase-perf-ktx-20.0.6/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-perf:20.0.6] /Users/yazantarifi/.gradle/caches/transforms-3/531aa4b76f4e5ecf880e6516dd050219/transformed/firebase-perf-20.0.6/AndroidManifest.xml:20:9-26:19
+MERGED from [com.google.firebase:firebase-perf:20.0.6] /Users/yazantarifi/.gradle/caches/transforms-3/531aa4b76f4e5ecf880e6516dd050219/transformed/firebase-perf-20.0.6/AndroidManifest.xml:20:9-26:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.4] /Users/yazantarifi/.gradle/caches/transforms-3/ab0e41233bdfc86db181321841afb37e/transformed/firebase-messaging-23.0.4/AndroidManifest.xml:52:9-58:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.4] /Users/yazantarifi/.gradle/caches/transforms-3/ab0e41233bdfc86db181321841afb37e/transformed/firebase-messaging-23.0.4/AndroidManifest.xml:52:9-58:19
+MERGED from [com.google.firebase:firebase-functions-ktx:20.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/6b336397dea6897c00780c0c97061e9c/transformed/firebase-functions-ktx-20.1.0/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-functions-ktx:20.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/6b336397dea6897c00780c0c97061e9c/transformed/firebase-functions-ktx-20.1.0/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-functions:20.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/e8e716e3b3d407e20b1c9798b16be1f0/transformed/firebase-functions-20.1.0/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-functions:20.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/e8e716e3b3d407e20b1c9798b16be1f0/transformed/firebase-functions-20.1.0/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-config:21.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/188af75882f1b1b21c155aae2be935fc/transformed/firebase-config-21.1.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-config:21.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/188af75882f1b1b21c155aae2be935fc/transformed/firebase-config-21.1.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-crashlytics-ktx:18.2.10] /Users/yazantarifi/.gradle/caches/transforms-3/ff76bdf2ebbf2d8ea29343ea13f3a8fc/transformed/firebase-crashlytics-ktx-18.2.10/AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-crashlytics-ktx:18.2.10] /Users/yazantarifi/.gradle/caches/transforms-3/ff76bdf2ebbf2d8ea29343ea13f3a8fc/transformed/firebase-crashlytics-ktx-18.2.10/AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/2240495e3b195102471349bc68f4a114/transformed/firebase-analytics-ktx-21.0.0/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/2240495e3b195102471349bc68f4a114/transformed/firebase-analytics-ktx-21.0.0/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/8b923bb976279f802632c6cfc170df72/transformed/firebase-common-ktx-20.1.1/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/8b923bb976279f802632c6cfc170df72/transformed/firebase-common-ktx-20.1.1/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.10] /Users/yazantarifi/.gradle/caches/transforms-3/65c31c2afbc250ef8f69d84044dd0450/transformed/firebase-crashlytics-18.2.10/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-crashlytics:18.2.10] /Users/yazantarifi/.gradle/caches/transforms-3/65c31c2afbc250ef8f69d84044dd0450/transformed/firebase-crashlytics-18.2.10/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-abt:21.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/dc0799bac023874b07bde9f6862436ac/transformed/firebase-abt-21.0.1/AndroidManifest.xml:12:9-16:19
+MERGED from [com.google.firebase:firebase-abt:21.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/dc0799bac023874b07bde9f6862436ac/transformed/firebase-abt-21.0.1/AndroidManifest.xml:12:9-16:19
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/dbbcc9f8583ee0121ed58a49596b6cae/transformed/firebase-iid-21.1.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/dbbcc9f8583ee0121ed58a49596b6cae/transformed/firebase-iid-21.1.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8621c40172c01213de9083d6dd092f12/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8621c40172c01213de9083d6dd092f12/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/a69b5744fed0ec91b3b78812abcfbe88/transformed/firebase-installations-17.0.1/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/a69b5744fed0ec91b3b78812abcfbe88/transformed/firebase-installations-17.0.1/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.3] /Users/yazantarifi/.gradle/caches/transforms-3/927c5a29a5f3dc8a5614b39c0be3c0ed/transformed/firebase-datatransport-18.1.3/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.3] /Users/yazantarifi/.gradle/caches/transforms-3/927c5a29a5f3dc8a5614b39c0be3c0ed/transformed/firebase-datatransport-18.1.3/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/eee731d6391a002072e1b8dfcba7d2fd/transformed/firebase-common-20.1.1/AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/eee731d6391a002072e1b8dfcba7d2fd/transformed/firebase-common-20.1.1/AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-perf-ktx:20.0.6] /Users/yazantarifi/.gradle/caches/transforms-3/38e84f64b0c01c68172dc526bc923a42/transformed/firebase-perf-ktx-20.0.6/AndroidManifest.xml:14:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/eee731d6391a002072e1b8dfcba7d2fd/transformed/firebase-common-20.1.1/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/eee731d6391a002072e1b8dfcba7d2fd/transformed/firebase-common-20.1.1/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-perf-ktx:20.0.6] /Users/yazantarifi/.gradle/caches/transforms-3/38e84f64b0c01c68172dc526bc923a42/transformed/firebase-perf-ktx-20.0.6/AndroidManifest.xml:13:13-84
+meta-data#com.google.firebase.components:com.google.firebase.perf.ktx.FirebasePerfKtxRegistrar
+ADDED from [com.google.firebase:firebase-perf-ktx:20.0.6] /Users/yazantarifi/.gradle/caches/transforms-3/38e84f64b0c01c68172dc526bc923a42/transformed/firebase-perf-ktx-20.0.6/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-perf-ktx:20.0.6] /Users/yazantarifi/.gradle/caches/transforms-3/38e84f64b0c01c68172dc526bc923a42/transformed/firebase-perf-ktx-20.0.6/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-perf-ktx:20.0.6] /Users/yazantarifi/.gradle/caches/transforms-3/38e84f64b0c01c68172dc526bc923a42/transformed/firebase-perf-ktx-20.0.6/AndroidManifest.xml:16:17-116
+provider#com.google.firebase.perf.provider.FirebasePerfProvider
+ADDED from [com.google.firebase:firebase-perf:20.0.6] /Users/yazantarifi/.gradle/caches/transforms-3/531aa4b76f4e5ecf880e6516dd050219/transformed/firebase-perf-20.0.6/AndroidManifest.xml:14:9-18:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-perf:20.0.6] /Users/yazantarifi/.gradle/caches/transforms-3/531aa4b76f4e5ecf880e6516dd050219/transformed/firebase-perf-20.0.6/AndroidManifest.xml:16:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-perf:20.0.6] /Users/yazantarifi/.gradle/caches/transforms-3/531aa4b76f4e5ecf880e6516dd050219/transformed/firebase-perf-20.0.6/AndroidManifest.xml:17:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-perf:20.0.6] /Users/yazantarifi/.gradle/caches/transforms-3/531aa4b76f4e5ecf880e6516dd050219/transformed/firebase-perf-20.0.6/AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-perf:20.0.6] /Users/yazantarifi/.gradle/caches/transforms-3/531aa4b76f4e5ecf880e6516dd050219/transformed/firebase-perf-20.0.6/AndroidManifest.xml:15:13-82
+meta-data#com.google.firebase.components:com.google.firebase.perf.FirebasePerfRegistrar
+ADDED from [com.google.firebase:firebase-perf:20.0.6] /Users/yazantarifi/.gradle/caches/transforms-3/531aa4b76f4e5ecf880e6516dd050219/transformed/firebase-perf-20.0.6/AndroidManifest.xml:23:13-25:85
+	android:value
+		ADDED from [com.google.firebase:firebase-perf:20.0.6] /Users/yazantarifi/.gradle/caches/transforms-3/531aa4b76f4e5ecf880e6516dd050219/transformed/firebase-perf-20.0.6/AndroidManifest.xml:25:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-perf:20.0.6] /Users/yazantarifi/.gradle/caches/transforms-3/531aa4b76f4e5ecf880e6516dd050219/transformed/firebase-perf-20.0.6/AndroidManifest.xml:24:17-109
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-messaging:23.0.4] /Users/yazantarifi/.gradle/caches/transforms-3/ab0e41233bdfc86db181321841afb37e/transformed/firebase-messaging-23.0.4/AndroidManifest.xml:26:5-68
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/dbbcc9f8583ee0121ed58a49596b6cae/transformed/firebase-iid-21.1.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/dbbcc9f8583ee0121ed58a49596b6cae/transformed/firebase-iid-21.1.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8621c40172c01213de9083d6dd092f12/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8621c40172c01213de9083d6dd092f12/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/4ef859c09bfb5921bfd4595ae16065cb/transformed/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/4ef859c09bfb5921bfd4595ae16065cb/transformed/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/6c3a35d28d726a5e21c38f230aa172fa/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/6c3a35d28d726a5e21c38f230aa172fa/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8f4779865295652d5d3add57a0d5826b/transformed/play-services-measurement-impl-21.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8f4779865295652d5d3add57a0d5826b/transformed/play-services-measurement-impl-21.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/490b9520be01f7cfaf38bfea2d8bbe5d/transformed/play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/490b9520be01f7cfaf38bfea2d8bbe5d/transformed/play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.4] /Users/yazantarifi/.gradle/caches/transforms-3/ab0e41233bdfc86db181321841afb37e/transformed/firebase-messaging-23.0.4/AndroidManifest.xml:26:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.0.4] /Users/yazantarifi/.gradle/caches/transforms-3/ab0e41233bdfc86db181321841afb37e/transformed/firebase-messaging-23.0.4/AndroidManifest.xml:28:5-82
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/dbbcc9f8583ee0121ed58a49596b6cae/transformed/firebase-iid-21.1.0/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/dbbcc9f8583ee0121ed58a49596b6cae/transformed/firebase-iid-21.1.0/AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/4ef859c09bfb5921bfd4595ae16065cb/transformed/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/4ef859c09bfb5921bfd4595ae16065cb/transformed/play-services-cloud-messaging-17.0.1/AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.4] /Users/yazantarifi/.gradle/caches/transforms-3/ab0e41233bdfc86db181321841afb37e/transformed/firebase-messaging-23.0.4/AndroidManifest.xml:28:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:23.0.4] /Users/yazantarifi/.gradle/caches/transforms-3/ab0e41233bdfc86db181321841afb37e/transformed/firebase-messaging-23.0.4/AndroidManifest.xml:31:9-38:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.4] /Users/yazantarifi/.gradle/caches/transforms-3/ab0e41233bdfc86db181321841afb37e/transformed/firebase-messaging-23.0.4/AndroidManifest.xml:33:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:23.0.4] /Users/yazantarifi/.gradle/caches/transforms-3/ab0e41233bdfc86db181321841afb37e/transformed/firebase-messaging-23.0.4/AndroidManifest.xml:34:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.4] /Users/yazantarifi/.gradle/caches/transforms-3/ab0e41233bdfc86db181321841afb37e/transformed/firebase-messaging-23.0.4/AndroidManifest.xml:32:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.0.4] /Users/yazantarifi/.gradle/caches/transforms-3/ab0e41233bdfc86db181321841afb37e/transformed/firebase-messaging-23.0.4/AndroidManifest.xml:35:13-37:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.0.4] /Users/yazantarifi/.gradle/caches/transforms-3/ab0e41233bdfc86db181321841afb37e/transformed/firebase-messaging-23.0.4/AndroidManifest.xml:36:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.4] /Users/yazantarifi/.gradle/caches/transforms-3/ab0e41233bdfc86db181321841afb37e/transformed/firebase-messaging-23.0.4/AndroidManifest.xml:36:25-78
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:23.0.4] /Users/yazantarifi/.gradle/caches/transforms-3/ab0e41233bdfc86db181321841afb37e/transformed/firebase-messaging-23.0.4/AndroidManifest.xml:44:9-51:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.4] /Users/yazantarifi/.gradle/caches/transforms-3/ab0e41233bdfc86db181321841afb37e/transformed/firebase-messaging-23.0.4/AndroidManifest.xml:47:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:23.0.4] /Users/yazantarifi/.gradle/caches/transforms-3/ab0e41233bdfc86db181321841afb37e/transformed/firebase-messaging-23.0.4/AndroidManifest.xml:46:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.4] /Users/yazantarifi/.gradle/caches/transforms-3/ab0e41233bdfc86db181321841afb37e/transformed/firebase-messaging-23.0.4/AndroidManifest.xml:45:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:23.0.4] /Users/yazantarifi/.gradle/caches/transforms-3/ab0e41233bdfc86db181321841afb37e/transformed/firebase-messaging-23.0.4/AndroidManifest.xml:48:13-50:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:23.0.4] /Users/yazantarifi/.gradle/caches/transforms-3/ab0e41233bdfc86db181321841afb37e/transformed/firebase-messaging-23.0.4/AndroidManifest.xml:48:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:23.0.4] /Users/yazantarifi/.gradle/caches/transforms-3/ab0e41233bdfc86db181321841afb37e/transformed/firebase-messaging-23.0.4/AndroidManifest.xml:49:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.4] /Users/yazantarifi/.gradle/caches/transforms-3/ab0e41233bdfc86db181321841afb37e/transformed/firebase-messaging-23.0.4/AndroidManifest.xml:49:25-75
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:23.0.4] /Users/yazantarifi/.gradle/caches/transforms-3/ab0e41233bdfc86db181321841afb37e/transformed/firebase-messaging-23.0.4/AndroidManifest.xml:55:13-57:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:23.0.4] /Users/yazantarifi/.gradle/caches/transforms-3/ab0e41233bdfc86db181321841afb37e/transformed/firebase-messaging-23.0.4/AndroidManifest.xml:57:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.4] /Users/yazantarifi/.gradle/caches/transforms-3/ab0e41233bdfc86db181321841afb37e/transformed/firebase-messaging-23.0.4/AndroidManifest.xml:56:17-119
+meta-data#com.google.firebase.components:com.google.firebase.functions.ktx.FirebaseFunctionsKtxRegistrar
+ADDED from [com.google.firebase:firebase-functions-ktx:20.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/6b336397dea6897c00780c0c97061e9c/transformed/firebase-functions-ktx-20.1.0/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-functions-ktx:20.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/6b336397dea6897c00780c0c97061e9c/transformed/firebase-functions-ktx-20.1.0/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-functions-ktx:20.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/6b336397dea6897c00780c0c97061e9c/transformed/firebase-functions-ktx-20.1.0/AndroidManifest.xml:16:17-126
+meta-data#com.google.firebase.components:com.google.firebase.functions.FunctionsRegistrar
+ADDED from [com.google.firebase:firebase-functions:20.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/e8e716e3b3d407e20b1c9798b16be1f0/transformed/firebase-functions-20.1.0/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-functions:20.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/e8e716e3b3d407e20b1c9798b16be1f0/transformed/firebase-functions-20.1.0/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-functions:20.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/e8e716e3b3d407e20b1c9798b16be1f0/transformed/firebase-functions-20.1.0/AndroidManifest.xml:19:17-111
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/a87852d01ce22a99ab02fdcc2ef8083b/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/a87852d01ce22a99ab02fdcc2ef8083b/transformed/play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/a87852d01ce22a99ab02fdcc2ef8083b/transformed/play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/a87852d01ce22a99ab02fdcc2ef8083b/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+meta-data#com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar
+ADDED from [com.google.firebase:firebase-config:21.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/188af75882f1b1b21c155aae2be935fc/transformed/firebase-config-21.1.0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-config:21.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/188af75882f1b1b21c155aae2be935fc/transformed/firebase-config-21.1.0/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-config:21.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/188af75882f1b1b21c155aae2be935fc/transformed/firebase-config-21.1.0/AndroidManifest.xml:33:17-117
+meta-data#com.google.firebase.components:com.google.firebase.crashlytics.ktx.FirebaseCrashlyticsKtxRegistrar
+ADDED from [com.google.firebase:firebase-crashlytics-ktx:18.2.10] /Users/yazantarifi/.gradle/caches/transforms-3/ff76bdf2ebbf2d8ea29343ea13f3a8fc/transformed/firebase-crashlytics-ktx-18.2.10/AndroidManifest.xml:27:13-29:85
+	android:value
+		ADDED from [com.google.firebase:firebase-crashlytics-ktx:18.2.10] /Users/yazantarifi/.gradle/caches/transforms-3/ff76bdf2ebbf2d8ea29343ea13f3a8fc/transformed/firebase-crashlytics-ktx-18.2.10/AndroidManifest.xml:29:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-crashlytics-ktx:18.2.10] /Users/yazantarifi/.gradle/caches/transforms-3/ff76bdf2ebbf2d8ea29343ea13f3a8fc/transformed/firebase-crashlytics-ktx-18.2.10/AndroidManifest.xml:28:17-130
+meta-data#com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar
+ADDED from [com.google.firebase:firebase-analytics-ktx:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/2240495e3b195102471349bc68f4a114/transformed/firebase-analytics-ktx-21.0.0/AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-analytics-ktx:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/2240495e3b195102471349bc68f4a114/transformed/firebase-analytics-ktx-21.0.0/AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics-ktx:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/2240495e3b195102471349bc68f4a114/transformed/firebase-analytics-ktx-21.0.0/AndroidManifest.xml:12:17-126
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/8b923bb976279f802632c6cfc170df72/transformed/firebase-common-ktx-20.1.1/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/8b923bb976279f802632c6cfc170df72/transformed/firebase-common-ktx-20.1.1/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/8b923bb976279f802632c6cfc170df72/transformed/firebase-common-ktx-20.1.1/AndroidManifest.xml:16:17-113
+meta-data#com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar
+ADDED from [com.google.firebase:firebase-crashlytics:18.2.10] /Users/yazantarifi/.gradle/caches/transforms-3/65c31c2afbc250ef8f69d84044dd0450/transformed/firebase-crashlytics-18.2.10/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-crashlytics:18.2.10] /Users/yazantarifi/.gradle/caches/transforms-3/65c31c2afbc250ef8f69d84044dd0450/transformed/firebase-crashlytics-18.2.10/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-crashlytics:18.2.10] /Users/yazantarifi/.gradle/caches/transforms-3/65c31c2afbc250ef8f69d84044dd0450/transformed/firebase-crashlytics-18.2.10/AndroidManifest.xml:19:17-115
+meta-data#com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar
+ADDED from [com.google.firebase:firebase-abt:21.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/dc0799bac023874b07bde9f6862436ac/transformed/firebase-abt-21.0.1/AndroidManifest.xml:13:13-15:85
+	android:value
+		ADDED from [com.google.firebase:firebase-abt:21.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/dc0799bac023874b07bde9f6862436ac/transformed/firebase-abt-21.0.1/AndroidManifest.xml:15:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-abt:21.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/dc0799bac023874b07bde9f6862436ac/transformed/firebase-abt-21.0.1/AndroidManifest.xml:14:17-109
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:21.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/dbbcc9f8583ee0121ed58a49596b6cae/transformed/firebase-iid-21.1.0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:21.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/dbbcc9f8583ee0121ed58a49596b6cae/transformed/firebase-iid-21.1.0/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.1.0] /Users/yazantarifi/.gradle/caches/transforms-3/dbbcc9f8583ee0121ed58a49596b6cae/transformed/firebase-iid-21.1.0/AndroidManifest.xml:33:17-96
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8621c40172c01213de9083d6dd092f12/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8f4779865295652d5d3add57a0d5826b/transformed/play-services-measurement-impl-21.0.0/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8f4779865295652d5d3add57a0d5826b/transformed/play-services-measurement-impl-21.0.0/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/a21c4dcd3d2103c1b2449fae9f6e60b8/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/a21c4dcd3d2103c1b2449fae9f6e60b8/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/490b9520be01f7cfaf38bfea2d8bbe5d/transformed/play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/490b9520be01f7cfaf38bfea2d8bbe5d/transformed/play-services-measurement-sdk-api-21.0.0/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8621c40172c01213de9083d6dd092f12/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:25:22-76
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8621c40172c01213de9083d6dd092f12/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8621c40172c01213de9083d6dd092f12/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8621c40172c01213de9083d6dd092f12/transformed/play-services-measurement-api-21.0.0/AndroidManifest.xml:32:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/a69b5744fed0ec91b3b78812abcfbe88/transformed/firebase-installations-17.0.1/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/a69b5744fed0ec91b3b78812abcfbe88/transformed/firebase-installations-17.0.1/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] /Users/yazantarifi/.gradle/caches/transforms-3/a69b5744fed0ec91b3b78812abcfbe88/transformed/firebase-installations-17.0.1/AndroidManifest.xml:19:17-127
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.1.3] /Users/yazantarifi/.gradle/caches/transforms-3/927c5a29a5f3dc8a5614b39c0be3c0ed/transformed/firebase-datatransport-18.1.3/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.3] /Users/yazantarifi/.gradle/caches/transforms-3/927c5a29a5f3dc8a5614b39c0be3c0ed/transformed/firebase-datatransport-18.1.3/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.3] /Users/yazantarifi/.gradle/caches/transforms-3/927c5a29a5f3dc8a5614b39c0be3c0ed/transformed/firebase-datatransport-18.1.3/AndroidManifest.xml:29:17-115
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/eee731d6391a002072e1b8dfcba7d2fd/transformed/firebase-common-20.1.1/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/eee731d6391a002072e1b8dfcba7d2fd/transformed/firebase-common-20.1.1/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/eee731d6391a002072e1b8dfcba7d2fd/transformed/firebase-common-20.1.1/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/eee731d6391a002072e1b8dfcba7d2fd/transformed/firebase-common-20.1.1/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/eee731d6391a002072e1b8dfcba7d2fd/transformed/firebase-common-20.1.1/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/eee731d6391a002072e1b8dfcba7d2fd/transformed/firebase-common-20.1.1/AndroidManifest.xml:27:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/6c3a35d28d726a5e21c38f230aa172fa/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8f4779865295652d5d3add57a0d5826b/transformed/play-services-measurement-impl-21.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/8f4779865295652d5d3add57a0d5826b/transformed/play-services-measurement-impl-21.0.0/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/6c3a35d28d726a5e21c38f230aa172fa/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/6c3a35d28d726a5e21c38f230aa172fa/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/6c3a35d28d726a5e21c38f230aa172fa/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/6c3a35d28d726a5e21c38f230aa172fa/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/6c3a35d28d726a5e21c38f230aa172fa/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/6c3a35d28d726a5e21c38f230aa172fa/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/6c3a35d28d726a5e21c38f230aa172fa/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/6c3a35d28d726a5e21c38f230aa172fa/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/6c3a35d28d726a5e21c38f230aa172fa/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/6c3a35d28d726a5e21c38f230aa172fa/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/6c3a35d28d726a5e21c38f230aa172fa/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/6c3a35d28d726a5e21c38f230aa172fa/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/6c3a35d28d726a5e21c38f230aa172fa/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/6c3a35d28d726a5e21c38f230aa172fa/transformed/play-services-measurement-21.0.0/AndroidManifest.xml:40:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/7c69e0087c9c94986c81fd371dbc8943/transformed/play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/7c69e0087c9c94986c81fd371dbc8943/transformed/play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/yazantarifi/.gradle/caches/transforms-3/7c69e0087c9c94986c81fd371dbc8943/transformed/play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/d140d55e57e7dd152c40cf2ae6254219/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/yazantarifi/.gradle/caches/transforms-3/209d69787b715548dac74cbdaeb8ab45/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/yazantarifi/.gradle/caches/transforms-3/209d69787b715548dac74cbdaeb8ab45/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/e38997d5367575c173f0789c48360477/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/e38997d5367575c173f0789c48360477/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/2fe0ac994666a147b603f4139d09a76e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yazantarifi/.gradle/caches/transforms-3/2fe0ac994666a147b603f4139d09a76e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/d140d55e57e7dd152c40cf2ae6254219/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/d140d55e57e7dd152c40cf2ae6254219/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/d140d55e57e7dd152c40cf2ae6254219/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/d140d55e57e7dd152c40cf2ae6254219/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/d140d55e57e7dd152c40cf2ae6254219/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/d140d55e57e7dd152c40cf2ae6254219/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/d140d55e57e7dd152c40cf2ae6254219/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.1.0-alpha02] /Users/yazantarifi/.gradle/caches/transforms-3/9de1245cba150996790440a2f9133bf1/transformed/window-1.1.0-alpha02/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.1.0-alpha02] /Users/yazantarifi/.gradle/caches/transforms-3/9de1245cba150996790440a2f9133bf1/transformed/window-1.1.0-alpha02/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.1.0-alpha02] /Users/yazantarifi/.gradle/caches/transforms-3/9de1245cba150996790440a2f9133bf1/transformed/window-1.1.0-alpha02/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.1.0-alpha02] /Users/yazantarifi/.gradle/caches/transforms-3/9de1245cba150996790440a2f9133bf1/transformed/window-1.1.0-alpha02/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.1.0-alpha02] /Users/yazantarifi/.gradle/caches/transforms-3/9de1245cba150996790440a2f9133bf1/transformed/window-1.1.0-alpha02/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.1.0-alpha02] /Users/yazantarifi/.gradle/caches/transforms-3/9de1245cba150996790440a2f9133bf1/transformed/window-1.1.0-alpha02/AndroidManifest.xml:29:13-51
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/yazantarifi/.gradle/caches/transforms-3/209d69787b715548dac74cbdaeb8ab45/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/yazantarifi/.gradle/caches/transforms-3/209d69787b715548dac74cbdaeb8ab45/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/yazantarifi/.gradle/caches/transforms-3/209d69787b715548dac74cbdaeb8ab45/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/yazantarifi/.gradle/caches/transforms-3/9ccd288164d09d241f9352580ab6d54b/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/yazantarifi/.gradle/caches/transforms-3/9ccd288164d09d241f9352580ab6d54b/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/yazantarifi/.gradle/caches/transforms-3/9ccd288164d09d241f9352580ab6d54b/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.yazantarifi.radio.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/yazantarifi/.gradle/caches/transforms-3/9ccd288164d09d241f9352580ab6d54b/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/yazantarifi/.gradle/caches/transforms-3/9ccd288164d09d241f9352580ab6d54b/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/yazantarifi/.gradle/caches/transforms-3/9ccd288164d09d241f9352580ab6d54b/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/yazantarifi/.gradle/caches/transforms-3/9ccd288164d09d241f9352580ab6d54b/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/yazantarifi/.gradle/caches/transforms-3/9ccd288164d09d241f9352580ab6d54b/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.yazantarifi.radio.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/yazantarifi/.gradle/caches/transforms-3/9ccd288164d09d241f9352580ab6d54b/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/yazantarifi/.gradle/caches/transforms-3/9ccd288164d09d241f9352580ab6d54b/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.4] /Users/yazantarifi/.gradle/caches/transforms-3/fb9a999319a80c8158166089e0f91d63/transformed/transport-backend-cct-3.1.4/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.4] /Users/yazantarifi/.gradle/caches/transforms-3/235e5fd55820a43c4bc3e72c3b374c48/transformed/transport-runtime-3.1.4/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.4] /Users/yazantarifi/.gradle/caches/transforms-3/235e5fd55820a43c4bc3e72c3b374c48/transformed/transport-runtime-3.1.4/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.4] /Users/yazantarifi/.gradle/caches/transforms-3/fb9a999319a80c8158166089e0f91d63/transformed/transport-backend-cct-3.1.4/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.4] /Users/yazantarifi/.gradle/caches/transforms-3/fb9a999319a80c8158166089e0f91d63/transformed/transport-backend-cct-3.1.4/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.4] /Users/yazantarifi/.gradle/caches/transforms-3/fb9a999319a80c8158166089e0f91d63/transformed/transport-backend-cct-3.1.4/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.4] /Users/yazantarifi/.gradle/caches/transforms-3/fb9a999319a80c8158166089e0f91d63/transformed/transport-backend-cct-3.1.4/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.4] /Users/yazantarifi/.gradle/caches/transforms-3/fb9a999319a80c8158166089e0f91d63/transformed/transport-backend-cct-3.1.4/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.4] /Users/yazantarifi/.gradle/caches/transforms-3/235e5fd55820a43c4bc3e72c3b374c48/transformed/transport-runtime-3.1.4/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.4] /Users/yazantarifi/.gradle/caches/transforms-3/235e5fd55820a43c4bc3e72c3b374c48/transformed/transport-runtime-3.1.4/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.4] /Users/yazantarifi/.gradle/caches/transforms-3/235e5fd55820a43c4bc3e72c3b374c48/transformed/transport-runtime-3.1.4/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.4] /Users/yazantarifi/.gradle/caches/transforms-3/235e5fd55820a43c4bc3e72c3b374c48/transformed/transport-runtime-3.1.4/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.4] /Users/yazantarifi/.gradle/caches/transforms-3/235e5fd55820a43c4bc3e72c3b374c48/transformed/transport-runtime-3.1.4/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.4] /Users/yazantarifi/.gradle/caches/transforms-3/235e5fd55820a43c4bc3e72c3b374c48/transformed/transport-runtime-3.1.4/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.4] /Users/yazantarifi/.gradle/caches/transforms-3/235e5fd55820a43c4bc3e72c3b374c48/transformed/transport-runtime-3.1.4/AndroidManifest.xml:33:13-132
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/e38997d5367575c173f0789c48360477/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/e38997d5367575c173f0789c48360477/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/e38997d5367575c173f0789c48360477/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/e38997d5367575c173f0789c48360477/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/e38997d5367575c173f0789c48360477/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/e38997d5367575c173f0789c48360477/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/e38997d5367575c173f0789c48360477/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/e38997d5367575c173f0789c48360477/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/e38997d5367575c173f0789c48360477/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/e38997d5367575c173f0789c48360477/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/e38997d5367575c173f0789c48360477/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/e38997d5367575c173f0789c48360477/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/e38997d5367575c173f0789c48360477/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/e38997d5367575c173f0789c48360477/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/e38997d5367575c173f0789c48360477/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/e38997d5367575c173f0789c48360477/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/e38997d5367575c173f0789c48360477/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/e38997d5367575c173f0789c48360477/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/e38997d5367575c173f0789c48360477/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/e38997d5367575c173f0789c48360477/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yazantarifi/.gradle/caches/transforms-3/e38997d5367575c173f0789c48360477/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
